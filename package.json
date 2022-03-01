@@ -1,0 +1,31 @@
+{
+  "name": "chinese-proverb-helper",
+  "version": "0.0.1",
+  "description": "a chinese proverb tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveloki/chinese-proverb-helper.git"
+  },
+  "keywords": [
+    "chinese",
+    "proverb",
+    "helper",
+    "tool"
+  ],
+  "author": "Xleine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loveloki/chinese-proverb-helper/issues"
+  },
+  "homepage": "https://github.com/loveloki/chinese-proverb-helper#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "eslint": "^8.10.0",
+    "eslint-config-alloy": "^4.5.1",
+    "prettier": "2.5.1"
+  }
+}
